@@ -1,3 +1,3 @@
 ## DEPLOYED:
 
-yarn https://styled-clarusway.netlify.app/
+(Click Me!) [https://styled-components-example-iota.vercel.app/]
